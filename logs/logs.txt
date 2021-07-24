@@ -1,0 +1,338 @@
+2021-01-06T04:10:40.859701+00:00 shinyapps[3446497]: LANG: en_US.UTF-8
+2021-01-06T04:10:40.851259+00:00 shinyapps[3446497]: Running on host: 057bb9d13e8b
+2021-01-06T04:10:40.859684+00:00 shinyapps[3446497]: Server version: 1.8.6
+2021-01-06T04:10:40.859702+00:00 shinyapps[3446497]: R version: 4.0.2
+2021-01-06T04:10:40.859703+00:00 shinyapps[3446497]: httpuv version: 1.5.4
+2021-01-06T04:10:40.859710+00:00 shinyapps[3446497]: rmarkdown version: 2.5
+2021-01-06T04:10:40.859702+00:00 shinyapps[3446497]: shiny version: 1.5.0
+2021-01-06T04:10:40.859732+00:00 shinyapps[3446497]: knitr version: 1.30
+2021-01-06T04:10:40.859744+00:00 shinyapps[3446497]: RJSONIO version: (none)
+2021-01-06T04:10:40.859744+00:00 shinyapps[3446497]: jsonlite version: 1.7.1
+2021-01-06T04:10:40.859754+00:00 shinyapps[3446497]: htmltools version: 0.5.0
+2021-01-06T04:10:40.859966+00:00 shinyapps[3446497]: Using pandoc: /opt/connect/ext/pandoc/2.11
+2021-01-06T04:10:41.059992+00:00 shinyapps[3446497]: Using jsonlite for JSON processing
+2021-01-06T04:10:41.064135+00:00 shinyapps[3446497]: 
+2021-01-06T04:10:41.064136+00:00 shinyapps[3446497]: Starting R with process ID: '24'
+2021-01-06T04:10:41.093693+00:00 shinyapps[3446497]: 
+2021-01-06T04:10:41.093695+00:00 shinyapps[3446497]: Listening on http://127.0.0.1:36071
+2021-01-06T04:10:45.273668+00:00 shinyapps[3446497]: 
+2021-01-06T04:10:45.273671+00:00 shinyapps[3446497]: Attaching package: ‘dplyr’
+2021-01-06T04:10:45.273671+00:00 shinyapps[3446497]: 
+2021-01-06T04:10:45.274447+00:00 shinyapps[3446497]: 
+2021-01-06T04:10:45.274447+00:00 shinyapps[3446497]:     filter, lag
+2021-01-06T04:10:45.274448+00:00 shinyapps[3446497]: 
+2021-01-06T04:10:45.274821+00:00 shinyapps[3446497]: The following objects are masked from ‘package:base’:
+2021-01-06T04:10:45.274821+00:00 shinyapps[3446497]: 
+2021-01-06T04:10:45.277821+00:00 shinyapps[3446497]: Loading required package: NLP
+2021-01-06T04:10:45.274446+00:00 shinyapps[3446497]: The following objects are masked from ‘package:stats’:
+2021-01-06T04:10:45.274822+00:00 shinyapps[3446497]:     intersect, setdiff, setequal, union
+2021-01-06T04:10:45.274822+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:31.308504+00:00 shinyapps[3446497]: Running on host: 8de58c16e989
+2021-01-06T04:14:31.315256+00:00 shinyapps[3446497]: R version: 4.0.2
+2021-01-06T04:14:31.315284+00:00 shinyapps[3446497]: httpuv version: 1.5.4
+2021-01-06T04:14:31.315238+00:00 shinyapps[3446497]: Server version: 1.8.6
+2021-01-06T04:14:31.315248+00:00 shinyapps[3446497]: LANG: en_US.UTF-8
+2021-01-06T04:14:31.315277+00:00 shinyapps[3446497]: shiny version: 1.5.0
+2021-01-06T04:14:31.315317+00:00 shinyapps[3446497]: rmarkdown version: 2.5
+2021-01-06T04:14:31.315325+00:00 shinyapps[3446497]: knitr version: 1.30
+2021-01-06T04:14:31.315325+00:00 shinyapps[3446497]: jsonlite version: 1.7.1
+2021-01-06T04:14:31.513833+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:31.488863+00:00 shinyapps[3446497]: Starting R with process ID: '26'
+2021-01-06T04:14:31.485602+00:00 shinyapps[3446497]: Using jsonlite for JSON processing
+2021-01-06T04:14:31.315342+00:00 shinyapps[3446497]: RJSONIO version: (none)
+2021-01-06T04:14:31.315349+00:00 shinyapps[3446497]: htmltools version: 0.5.0
+2021-01-06T04:14:31.315512+00:00 shinyapps[3446497]: Using pandoc: /opt/connect/ext/pandoc/2.11
+2021-01-06T04:14:31.488862+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:31.513834+00:00 shinyapps[3446497]: Listening on http://127.0.0.1:33251
+2021-01-06T04:14:39.968247+00:00 shinyapps[3446497]: Attaching package: ‘dplyr’
+2021-01-06T04:14:39.969446+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:39.968248+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:39.969054+00:00 shinyapps[3446497]: The following objects are masked from ‘package:stats’:
+2021-01-06T04:14:39.969055+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:39.969056+00:00 shinyapps[3446497]:     filter, lag
+2021-01-06T04:14:39.971783+00:00 shinyapps[3446497]: Loading required package: NLP
+2021-01-06T04:14:39.968245+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:39.969056+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:39.969445+00:00 shinyapps[3446497]: The following objects are masked from ‘package:base’:
+2021-01-06T04:14:39.969445+00:00 shinyapps[3446497]: 
+2021-01-06T04:14:39.969446+00:00 shinyapps[3446497]:     intersect, setdiff, setequal, union
+2021-01-06T04:14:53.079197+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:14:53.079201+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:14:53.088090+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:14:53.079199+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:14:53.079200+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:14:53.080255+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:14:53.088095+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:14:53.088096+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:14:53.088097+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:14:53.088094+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:14:53.088093+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:14:53.088096+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:14:53.088095+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:14:53.088098+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:14:53.088098+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:14:53.088097+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:14:53.861727+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:14:53.861729+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:14:53.861730+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:14:53.861730+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:14:53.862618+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:14:53.867455+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:14:53.867454+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:14:53.867455+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:14:53.867456+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:14:53.867464+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:14:53.867465+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:14:53.867465+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:14:53.867465+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:14:53.867466+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:14:53.867456+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:14:53.867456+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:14:54.493205+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:14:54.493206+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:14:54.493207+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:14:54.493208+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:14:54.494049+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:14:54.498907+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:14:54.498908+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:14:54.498909+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:14:54.498909+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:14:54.498917+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:14:54.498918+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:14:54.498919+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:14:54.498919+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:14:54.498917+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:14:54.498918+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:14:54.498919+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:15:19.022815+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:15:19.022817+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:15:19.022818+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:15:19.022818+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:15:19.023668+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:15:19.028501+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:15:19.028502+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:15:19.028503+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:15:19.028504+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:15:19.028504+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:15:19.028504+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:15:19.028505+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:15:19.028505+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:15:19.028515+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:15:19.028516+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:15:19.028516+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:15:19.612237+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:15:19.612239+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:15:19.612240+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:15:19.612240+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:15:19.613096+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:15:19.617904+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:15:19.617905+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:15:19.617904+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:15:19.617906+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:15:19.617915+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:15:19.617905+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:15:19.617906+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:15:19.617916+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:15:19.617915+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:15:19.617916+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:15:19.617916+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:20:29.577207+00:00 shinyapps[3446497]: Running on host: 27ec846e8c80
+2021-01-06T04:20:29.585129+00:00 shinyapps[3446497]: Server version: 1.8.6
+2021-01-06T04:20:29.585140+00:00 shinyapps[3446497]: LANG: en_US.UTF-8
+2021-01-06T04:20:29.585179+00:00 shinyapps[3446497]: R version: 4.0.2
+2021-01-06T04:20:29.585211+00:00 shinyapps[3446497]: shiny version: 1.5.0
+2021-01-06T04:20:29.585212+00:00 shinyapps[3446497]: httpuv version: 1.5.4
+2021-01-06T04:20:29.585264+00:00 shinyapps[3446497]: knitr version: 1.30
+2021-01-06T04:20:29.585276+00:00 shinyapps[3446497]: jsonlite version: 1.7.1
+2021-01-06T04:20:29.585225+00:00 shinyapps[3446497]: rmarkdown version: 2.5
+2021-01-06T04:20:29.585284+00:00 shinyapps[3446497]: RJSONIO version: (none)
+2021-01-06T04:20:29.585305+00:00 shinyapps[3446497]: htmltools version: 0.5.0
+2021-01-06T04:20:29.585509+00:00 shinyapps[3446497]: Using pandoc: /opt/connect/ext/pandoc/2.11
+2021-01-06T04:20:29.757702+00:00 shinyapps[3446497]: Using jsonlite for JSON processing
+2021-01-06T04:20:29.760748+00:00 shinyapps[3446497]: Starting R with process ID: '25'
+2021-01-06T04:20:29.786060+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:29.760747+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:29.786061+00:00 shinyapps[3446497]: Listening on http://127.0.0.1:43044
+2021-01-06T04:20:38.731956+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:38.731958+00:00 shinyapps[3446497]: Attaching package: ‘dplyr’
+2021-01-06T04:20:38.731958+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:38.732690+00:00 shinyapps[3446497]: The following objects are masked from ‘package:stats’:
+2021-01-06T04:20:38.732691+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:38.732691+00:00 shinyapps[3446497]:     filter, lag
+2021-01-06T04:20:38.733055+00:00 shinyapps[3446497]: The following objects are masked from ‘package:base’:
+2021-01-06T04:20:38.733055+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:38.732691+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:38.733056+00:00 shinyapps[3446497]:     intersect, setdiff, setequal, union
+2021-01-06T04:20:38.733056+00:00 shinyapps[3446497]: 
+2021-01-06T04:20:38.735858+00:00 shinyapps[3446497]: Loading required package: NLP
+2021-01-06T04:20:45.103001+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:20:45.102998+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:20:45.103002+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:20:45.111497+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:20:45.103002+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:20:45.103923+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:20:45.111498+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:20:45.111499+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:20:45.111500+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:20:45.111499+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:20:45.111500+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:20:45.111508+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:20:45.111509+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:20:45.111509+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:20:45.111509+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:20:45.111509+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:20:46.608485+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:20:46.608486+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:20:46.608487+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:20:46.608488+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:20:46.609285+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:20:46.613998+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:20:46.613998+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:20:46.614000+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:20:46.613999+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:20:46.613997+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:20:46.614010+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:20:46.614011+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:20:46.614011+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:20:46.614011+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:20:46.614012+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:20:46.614012+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:31:18.811290+00:00 shinyapps[3446497]: Running on host: 0ba747179c1f
+2021-01-06T04:31:18.818112+00:00 shinyapps[3446497]: LANG: en_US.UTF-8
+2021-01-06T04:31:18.818100+00:00 shinyapps[3446497]: Server version: 1.8.6
+2021-01-06T04:31:18.818119+00:00 shinyapps[3446497]: R version: 4.0.2
+2021-01-06T04:31:18.818140+00:00 shinyapps[3446497]: shiny version: 1.5.0
+2021-01-06T04:31:18.818148+00:00 shinyapps[3446497]: httpuv version: 1.5.4
+2021-01-06T04:31:18.818183+00:00 shinyapps[3446497]: knitr version: 1.30
+2021-01-06T04:31:18.983545+00:00 shinyapps[3446497]: Starting R with process ID: '25'
+2021-01-06T04:31:18.818215+00:00 shinyapps[3446497]: htmltools version: 0.5.0
+2021-01-06T04:31:19.010163+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:19.010164+00:00 shinyapps[3446497]: Listening on http://127.0.0.1:46589
+2021-01-06T04:31:18.818208+00:00 shinyapps[3446497]: RJSONIO version: (none)
+2021-01-06T04:31:18.983544+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:18.980459+00:00 shinyapps[3446497]: Using jsonlite for JSON processing
+2021-01-06T04:31:18.818168+00:00 shinyapps[3446497]: rmarkdown version: 2.5
+2021-01-06T04:31:18.818191+00:00 shinyapps[3446497]: jsonlite version: 1.7.1
+2021-01-06T04:31:18.818413+00:00 shinyapps[3446497]: Using pandoc: /opt/connect/ext/pandoc/2.11
+2021-01-06T04:31:27.212342+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:27.212344+00:00 shinyapps[3446497]: Attaching package: ‘dplyr’
+2021-01-06T04:31:27.212344+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:27.213205+00:00 shinyapps[3446497]: The following objects are masked from ‘package:stats’:
+2021-01-06T04:31:27.213206+00:00 shinyapps[3446497]:     filter, lag
+2021-01-06T04:31:27.213205+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:27.213206+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:27.213638+00:00 shinyapps[3446497]: The following objects are masked from ‘package:base’:
+2021-01-06T04:31:27.213639+00:00 shinyapps[3446497]:     intersect, setdiff, setequal, union
+2021-01-06T04:31:27.213639+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:27.213640+00:00 shinyapps[3446497]: 
+2021-01-06T04:31:27.216272+00:00 shinyapps[3446497]: Loading required package: NLP
+2021-01-06T04:31:33.481371+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:31:33.481373+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:31:33.481374+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:31:33.481375+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:31:33.482353+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:31:33.490290+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:31:33.490291+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:31:33.490292+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:31:33.490292+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:31:33.490293+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:31:33.490293+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:31:33.490317+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:31:33.490294+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:31:33.490316+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:31:33.490318+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T04:31:33.490293+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:31:34.941396+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T04:31:34.941398+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T04:31:34.941399+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T04:31:34.941399+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T04:31:34.942266+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T04:31:34.947152+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T04:31:34.947152+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T04:31:34.947153+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T04:31:34.947154+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T04:31:34.947154+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T04:31:34.947162+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T04:31:34.947163+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T04:31:34.947162+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T04:31:34.947165+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T04:31:34.947165+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T04:31:34.947165+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T14:39:47.810289+00:00 shinyapps[3446497]: Running on host: 3da5bf74b7fa
+2021-01-06T14:39:47.829511+00:00 shinyapps[3446497]: Server version: 1.8.6
+2021-01-06T14:39:47.829523+00:00 shinyapps[3446497]: LANG: en_US.UTF-8
+2021-01-06T14:39:47.829607+00:00 shinyapps[3446497]: jsonlite version: 1.7.1
+2021-01-06T14:39:47.829533+00:00 shinyapps[3446497]: R version: 4.0.2
+2021-01-06T14:39:47.829544+00:00 shinyapps[3446497]: httpuv version: 1.5.4
+2021-01-06T14:39:47.829566+00:00 shinyapps[3446497]: rmarkdown version: 2.5
+2021-01-06T14:39:47.829608+00:00 shinyapps[3446497]: RJSONIO version: (none)
+2021-01-06T14:39:47.829543+00:00 shinyapps[3446497]: shiny version: 1.5.0
+2021-01-06T14:39:47.829595+00:00 shinyapps[3446497]: knitr version: 1.30
+2021-01-06T14:39:47.829806+00:00 shinyapps[3446497]: Using pandoc: /opt/connect/ext/pandoc/2.11
+2021-01-06T14:39:47.829626+00:00 shinyapps[3446497]: htmltools version: 0.5.0
+2021-01-06T14:39:48.094098+00:00 shinyapps[3446497]: Using jsonlite for JSON processing
+2021-01-06T14:39:48.098102+00:00 shinyapps[3446497]: 
+2021-01-06T14:39:48.098103+00:00 shinyapps[3446497]: Starting R with process ID: '25'
+2021-01-06T14:39:48.133169+00:00 shinyapps[3446497]: 
+2021-01-06T14:39:48.133170+00:00 shinyapps[3446497]: Listening on http://127.0.0.1:46824
+2021-01-06T14:42:55.005562+00:00 shinyapps[3446497]: Running on host: a5b4de53bc40
+2021-01-06T14:42:55.013596+00:00 shinyapps[3446497]: Server version: 1.8.6
+2021-01-06T14:42:55.013597+00:00 shinyapps[3446497]: LANG: en_US.UTF-8
+2021-01-06T14:42:55.013620+00:00 shinyapps[3446497]: R version: 4.0.2
+2021-01-06T14:42:55.013620+00:00 shinyapps[3446497]: shiny version: 1.5.0
+2021-01-06T14:42:55.013627+00:00 shinyapps[3446497]: httpuv version: 1.5.4
+2021-01-06T14:42:55.013647+00:00 shinyapps[3446497]: rmarkdown version: 2.5
+2021-01-06T14:42:55.013657+00:00 shinyapps[3446497]: knitr version: 1.30
+2021-01-06T14:42:55.013701+00:00 shinyapps[3446497]: htmltools version: 0.5.0
+2021-01-06T14:42:55.013700+00:00 shinyapps[3446497]: RJSONIO version: (none)
+2021-01-06T14:42:55.197404+00:00 shinyapps[3446497]: Using jsonlite for JSON processing
+2021-01-06T14:42:55.013688+00:00 shinyapps[3446497]: jsonlite version: 1.7.1
+2021-01-06T14:42:55.200702+00:00 shinyapps[3446497]: 
+2021-01-06T14:42:55.200702+00:00 shinyapps[3446497]: Starting R with process ID: '24'
+2021-01-06T14:42:55.227953+00:00 shinyapps[3446497]: 
+2021-01-06T14:42:55.227955+00:00 shinyapps[3446497]: Listening on http://127.0.0.1:34585
+2021-01-06T14:42:55.013891+00:00 shinyapps[3446497]: Using pandoc: /opt/connect/ext/pandoc/2.11
+2021-01-06T14:43:04.841826+00:00 shinyapps[3446497]: 
+2021-01-06T14:43:04.841827+00:00 shinyapps[3446497]: 
+2021-01-06T14:43:04.842227+00:00 shinyapps[3446497]: The following objects are masked from ‘package:base’:
+2021-01-06T14:43:04.842228+00:00 shinyapps[3446497]: 
+2021-01-06T14:43:04.841046+00:00 shinyapps[3446497]: 
+2021-01-06T14:43:04.841043+00:00 shinyapps[3446497]: 
+2021-01-06T14:43:04.841824+00:00 shinyapps[3446497]: The following objects are masked from ‘package:stats’:
+2021-01-06T14:43:04.841045+00:00 shinyapps[3446497]: Attaching package: ‘dplyr’
+2021-01-06T14:43:04.842229+00:00 shinyapps[3446497]: 
+2021-01-06T14:43:04.845026+00:00 shinyapps[3446497]: Loading required package: NLP
+2021-01-06T14:43:04.841826+00:00 shinyapps[3446497]:     filter, lag
+2021-01-06T14:43:04.842228+00:00 shinyapps[3446497]:     intersect, setdiff, setequal, union
+2021-01-06T14:43:11.235087+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T14:43:11.235090+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T14:43:11.235091+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T14:43:11.235092+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T14:43:11.236090+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T14:43:11.255765+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T14:43:11.255766+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T14:43:11.255768+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T14:43:11.255767+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T14:43:11.255767+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T14:43:11.255777+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T14:43:11.255779+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T14:43:11.255780+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T14:43:11.255780+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T14:43:11.255780+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T14:43:11.255781+00:00 shinyapps[3446497]:     5: eval
+2021-01-06T14:43:11.529615+00:00 shinyapps[3446497]:   PCRE pattern compilation error
+2021-01-06T14:43:11.529614+00:00 shinyapps[3446497]: Warning in gsub(sprintf("(*UCP)\\b(%s)\\b", paste(sort(words, decreasing = TRUE),  :
+2021-01-06T14:43:11.529616+00:00 shinyapps[3446497]: 	'regular expression is too complicated'
+2021-01-06T14:43:11.529616+00:00 shinyapps[3446497]: 	at ''
+2021-01-06T14:43:11.530466+00:00 shinyapps[3446497]: Warning: Error in gsub: invalid regular expression '(*UCP)\b(zubb|zoophilia|zibbi|yobbo|yiffy|yid|yellow showers|yeasty|yaoi|xxx|xx|xrated|x-rated|wtf|wrinkled starfish|wrapping men|wop|womb|wog|wiseasses|wiseass|window licker|willy|willies|wigger|whoring|whores|whorehouse|whorehopper|whoreface|whored|whorebag|whorealicious|whore|whoralicious|whoar|whiz|white power|wh0reface|wh0re|wetback|wet dream|wench|weirdo|weiner|weewee|weenie|weed|wedgie|wazoo|wanky|wankjob|wanker|wank|wang|wad|w00se|vulva|vulgar|voyeur|vorarephilia|vomit|vodka|vjayjay|vixen|virgin|violet wand|vibrator|viagra|veqtable|venus mound|valium|vajayjay|vagina|vag|va-j-j|v1gra|v14gra|uzi|uterus|urophilia|URL: https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/|urine|urinal|urethra play|upskirt|unwed|undressing|undies|unclefucker|ugly|twunter|twunt|two girls one cup|two fingers with tongue|two fingers|twinkie|twink|twatwaffle|twatty|twats|twatlips|twathead|twat|tw4t|tushy|tush|turd|tubgirl|tub girl|trumped|trib [... truncated]
+2021-01-06T14:43:11.535355+00:00 shinyapps[3446497]:   113: gsub
+2021-01-06T14:43:11.535356+00:00 shinyapps[3446497]:   112: removeWords.character
+2021-01-06T14:43:11.535357+00:00 shinyapps[3446497]:   110: cleanInput [/srv/connect/apps/shiny-app/server.R#83]
+2021-01-06T14:43:11.535357+00:00 shinyapps[3446497]:   109: predictNextWord [/srv/connect/apps/shiny-app/server.R#107]
+2021-01-06T14:43:11.535358+00:00 shinyapps[3446497]:   108: <reactive:output$prediction1> [/srv/connect/apps/shiny-app/server.R#140]
+2021-01-06T14:43:11.535359+00:00 shinyapps[3446497]:    13: runApp
+2021-01-06T14:43:11.535359+00:00 shinyapps[3446497]:    12: fn
+2021-01-06T14:43:11.535358+00:00 shinyapps[3446497]:    92: output$prediction1
+2021-01-06T14:43:11.535377+00:00 shinyapps[3446497]:     7: connect$retry
+2021-01-06T14:43:11.535377+00:00 shinyapps[3446497]:     6: eval
+2021-01-06T14:43:11.535378+00:00 shinyapps[3446497]:     5: eval
